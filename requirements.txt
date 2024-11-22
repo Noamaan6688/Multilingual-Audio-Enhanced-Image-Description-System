@@ -1,0 +1,7 @@
+google-generativeai
+torch
+transformers
+Pillow
+gtts
+opencv-python
+deep-translator
