@@ -1,4 +1,4 @@
-# Multilingual Visual Detection and Description System  
+# Multilingual Audio Enhanced Image Description System
 
 ## 📋 Project Overview  
 This project is an **Image-to-Audio Multilingual Object Detection and Description System** that leverages advanced AI models to detect objects in images, describe them, and provide audio output in multiple languages.  
